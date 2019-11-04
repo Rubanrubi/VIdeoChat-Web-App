@@ -21,7 +21,7 @@ We’re going to set up video groups on top of a Laravel 5.5 installation with b
 
 From the command line, in the directory where you keep your project folders, run:
 
-git clone https://github.com/mstaples/LaravelTwilioVideoGroups.git VideoGroupChat
+git clone https://github.com/Rubanrubi/VIdeoChat-Web-App VideoGroupChat
 
 Move into our new project directory.
 cd ~/VideoGroupChat
