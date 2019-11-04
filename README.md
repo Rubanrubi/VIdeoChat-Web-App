@@ -2,6 +2,8 @@
 
 To Built a Video Chat App Using Laravel and Twilio.
 
+![jwt-auth-banner](https://cloud.githubusercontent.com/assets/1801923/9915273/119b9350-5cae-11e5-850b-c941cac60b32.png)
+
 While words alone are powerful, the inflections of people’s voices, the gestures and expressions we unconsciously flow through during conversation all contain a wealth of information often lost to us in our technology driven communications.
 
 Using Twilio’s Video API you can now add the richness of face to face interactions to any web project.
