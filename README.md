@@ -279,7 +279,7 @@ function participantDisconnected(participant) {
 Here you will see references to our final two methods: trackAdded and trackRemoved. In addition to adding video and audio elements, note that we are also using trackAdded to style the video tracks as we add them.
 
 function trackAdded(div, track) {
-   div.appendChild(track.attach());
+   div.appendChild(track.attach()); 
    var video = div.getElementsByTagName("video")[0];
    if (video) {
        video.setAttribute("style", "max-width:300px;");
