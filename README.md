@@ -56,7 +56,7 @@ TWILIO_API_KEY=your-video-api-key
 TWILIO_API_SECRET=your-video-api-secret
 
 For this information to be useable within the Laravel application, the config/services.php file includes the following section:
-
+ 
 return [
   // other array elements exist here
 
