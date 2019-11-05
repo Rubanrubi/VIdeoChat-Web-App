@@ -49,6 +49,7 @@ php artisan migrate
 Private Account Information:
 
 Okay now let’s replace the placeholder values for our .env variables:
+
 TWILIO_ACCOUNT_SID=your-account-sid
 TWILIO_ACCOUNT_TOKEN=your-account-token
 TWILIO_API_KEY=your-video-api-key
